@@ -85,6 +85,8 @@ canvas{
 }
 .logo {
     position: absolute;
+    height: 120px;
+    width: auto;
     margin: auto;
     top: 0;
     left: 0;
