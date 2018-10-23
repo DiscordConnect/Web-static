@@ -81,7 +81,7 @@ particlesJS('particles-js',
         }
       }
     },
-    "interactivity": {
+    /*"interactivity": {
       "detect_on": "canvas",
       "events": {
         "onhover": {
@@ -118,7 +118,7 @@ particlesJS('particles-js',
           "particles_nb": 2
         }
       }
-    },
+    },*/
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
